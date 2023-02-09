@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f8376de.css",
+    "main.js": "/static/js/main.2c262f9c.js",
+    "static/media/gul.svg": "/static/media/gul.6fa82ec690141554e6533bb50fe7f603.svg",
+    "static/media/gren.png": "/static/media/gren.5b6d7de6f098cd78a90c.png",
+    "static/media/dflex.png": "/static/media/dflex.26a25dca519e00e6ceb6.png",
+    "static/media/01.png": "/static/media/01.7c11d2d4edcde1eb6152.png",
+    "static/media/02.png": "/static/media/02.9f4de20ea3b506355cd4.png",
+    "static/media/03.png": "/static/media/03.7eb00152b8af02bf2ca8.png",
+    "static/media/04.png": "/static/media/04.9b67cb74ddf7e40188bd.png",
+    "static/media/33.png": "/static/media/33.99355bd1bcb12fe85fbf.png",
+    "static/media/11.png": "/static/media/11.ebe4ca5873d8777b9ba1.png",
+    "static/media/55.png": "/static/media/55.bd03b52c08486f09f390.png",
+    "static/media/22.png": "/static/media/22.d9ef62a5d4db0d00d4c9.png",
+    "static/media/44.png": "/static/media/44.bc91b8a68ad43c191811.png",
+    "static/media/Group 22.png": "/static/media/Group 22.8c4f0aaec7d700a3055b.png",
+    "static/media/Group 20.png": "/static/media/Group 20.51b0027672ce126a4eff.png",
+    "static/media/Group 21.png": "/static/media/Group 21.aa6b19eec9ece51bc71a.png",
+    "static/media/grenshop.svg": "/static/media/grenshop.7bbd1cd295ea5898b44d974657a796b8.svg",
+    "index.html": "/index.html",
+    "main.6f8376de.css.map": "/static/css/main.6f8376de.css.map",
+    "main.2c262f9c.js.map": "/static/js/main.2c262f9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f8376de.css",
+    "static/js/main.2c262f9c.js"
+  ]
+}
